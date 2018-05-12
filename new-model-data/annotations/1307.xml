@@ -1,0 +1,26 @@
+<annotation>
+	<folder>face</folder>
+	<filename>1307.jpg</filename>
+	<path>/home/sinjab/Desktop/labelImg/data/face/1307.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>353</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>90</ymin>
+			<xmax>252</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

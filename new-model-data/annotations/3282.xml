@@ -1,0 +1,26 @@
+<annotation>
+	<folder>palm </folder>
+	<filename>3282.jpg</filename>
+	<path>/home/sinjab/Desktop/labelImg/data/palm /3282.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>palm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>176</ymin>
+			<xmax>321</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

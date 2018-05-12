@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fist</folder>
+	<filename>2088.jpg</filename>
+	<path>/home/sinjab/Desktop/labelImg/data/fist/2088.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>330</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>119</ymin>
+			<xmax>301</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

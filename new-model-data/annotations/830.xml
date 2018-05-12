@@ -1,0 +1,26 @@
+<annotation>
+	<folder>face</folder>
+	<filename>830.jpg</filename>
+	<path>/home/sinjab/Desktop/labelImg/data/face/830.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>398</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>38</ymin>
+			<xmax>290</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>
